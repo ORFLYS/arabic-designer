@@ -29,6 +29,20 @@
 
 ---
 
+## 📸 لقطات من التطبيق | App Screenshots
+
+<div align="center">
+  <img src="assets/screenshots/screen_home.png" width="23%" alt="Home Screen" />
+  &nbsp;
+  <img src="assets/screenshots/screen_editor.png" width="23%" alt="Photo Editor" />
+  &nbsp;
+  <img src="assets/screenshots/screen_brush.png" width="23%" alt="Brush Tools" />
+  &nbsp;
+  <img src="assets/screenshots/screen_typography.png" width="23%" alt="Typography & Design" />
+</div>
+
+---
+
 ## ✨ المميزات الرئيسية | Key Features
 
 - 🔤 **خطوط عربية وإنجليزية احترافية (Bilingual Typography):** تشكيلة واسعة من أجمل الخطوط العربية والإنجليزية مع تحكم كامل في الظل، التحديد، اللون والتدرج.
