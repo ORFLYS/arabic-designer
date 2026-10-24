@@ -15,6 +15,10 @@
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="220" alt="Get it on Google Play" />
 </a>
 
+<br/><br/>
+
+<img src="assets/screenshots/banner.png" width="95%" alt="Arabic Designer Banner" style="border-radius: 12px;" />
+
 </div>
 
 ---
@@ -29,16 +33,24 @@
 
 ---
 
-## 📸 لقطات من التطبيق | App Screenshots
+## 📸 لقطات من التطبيق | Google Play Screenshots
 
 <div align="center">
-  <img src="assets/screenshots/screen_home.png" width="23%" alt="Home Screen" />
+  <img src="assets/screenshots/screenshot_1.png" width="23%" alt="Screenshot 1" />
   &nbsp;
-  <img src="assets/screenshots/screen_editor.png" width="23%" alt="Photo Editor" />
+  <img src="assets/screenshots/screenshot_2.png" width="23%" alt="Screenshot 2" />
   &nbsp;
-  <img src="assets/screenshots/screen_brush.png" width="23%" alt="Brush Tools" />
+  <img src="assets/screenshots/screenshot_3.png" width="23%" alt="Screenshot 3" />
   &nbsp;
-  <img src="assets/screenshots/screen_typography.png" width="23%" alt="Typography & Design" />
+  <img src="assets/screenshots/screenshot_4.png" width="23%" alt="Screenshot 4" />
+  <br/><br/>
+  <img src="assets/screenshots/screenshot_5.png" width="23%" alt="Screenshot 5" />
+  &nbsp;
+  <img src="assets/screenshots/screenshot_6.png" width="23%" alt="Screenshot 6" />
+  &nbsp;
+  <img src="assets/screenshots/screenshot_7.png" width="23%" alt="Screenshot 7" />
+  &nbsp;
+  <img src="assets/screenshots/screenshot_8.png" width="23%" alt="Screenshot 8" />
 </div>
 
 ---
